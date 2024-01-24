@@ -6,3 +6,5 @@ for i in range(1,5):
 print('kek')
 print('again')
 
+a = 12
+b = 21
